@@ -3,11 +3,9 @@
 		{
 			"name": "Huddle-landing-page-with-single-introductory-section-master",
 			"path": "."
-		},
-		{
-			"name": "fonts",
-			"path": "../../../Downloads/icomoon/fonts"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Huddle-landing-page-with-single-introductory-section-master"
+	}
 }
