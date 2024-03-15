@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/Solution-screeshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/cristianccgg/Huddle-landing-page-with-single-introductory-section-master.git
+- Live Site URL: https://cristianccgg.github.io/Huddle-landing-page-with-single-introductory-section-master/
 
 ## My process
 
